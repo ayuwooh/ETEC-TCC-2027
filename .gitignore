@@ -1,0 +1,38 @@
+# Office documents
+*.docx
+*.pptx
+*.ppsx
+
+# Node
+node_modules/
+
+# PHP
+.php_cs.cache
+.php-cs-fixer.cache
+vendor/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# yEd graph files
+*.graphml
+
+# brModelo files
+*.brM3
+
+# Environment / secrets
+.env
+*.env.local
+
+# Logs
+*.log
+
+# Uploads
+web/public/uploads/

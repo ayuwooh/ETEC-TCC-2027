@@ -6,6 +6,15 @@ Projeto **NutriSync** — parceria entre os cursos de Nutrição e Informática 
 
 **Entregas da nutrição = entrada para a TI:** todo entregável abaixo deve chegar pronto e em formato combinado (planilha, documento ou formulário estruturado), revisado pela coordenação antes de ser repassado.
 
+**Onde cada entrega vive no repositório:**
+
+| Entrega | Pasta |
+|---|---|
+| Anamnese e formulários | `nutricao/anamnese/` |
+| Tabela de alimentos e fórmulas | `nutricao/alimentos/` |
+| Artigos e conteúdo | `nutricao/conteudo/` |
+| Termo de consentimento e LGPD | `nutricao/lgpd/` |
+
 ---
 
 ## Porta-voz / Coordenação

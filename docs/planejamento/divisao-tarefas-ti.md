@@ -6,6 +6,15 @@ Projeto **NutriSync** — parceria entre os cursos de Informática para Internet
 - **Fase 1:** plataforma web (MVP)
 - **Fase 2:** aplicativo mobile
 
+**Onde cada entregável vive no repositório:**
+
+| Área | Pasta |
+|---|---|
+| Aplicação web (páginas + banco) | `web/` |
+| Docker, deploy e nuvem | `infra/` |
+| Documentação de segurança e LGPD | `docs/seguranca/` |
+| Aplicativo mobile | `mobile/` |
+
 ---
 
 ## Ayu — Gestão de Projeto + Infraestrutura & DevOps
